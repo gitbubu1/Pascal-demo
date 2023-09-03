@@ -1,3 +1,3 @@
 # Pascal-demo
 this is my repository
-- Authour Bubu Munda
+- Author Bubu Munda
